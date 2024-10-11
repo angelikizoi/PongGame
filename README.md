@@ -3,6 +3,8 @@
 
 This is a simple Pong game built using Python's Turtle Graphics library. Two players can control paddles to bounce a ball back and forth. The first player to miss the ball loses, and the opponent gains a point. The game is simple, fun, and perfect for demonstrating basic Python graphics and game development concepts.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
+
 ## Features
 - Two-player game with paddles and a bouncing ball.
 - The ball speeds up each time it hits a paddle.
